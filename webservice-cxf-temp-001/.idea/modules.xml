@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-client-002/cxf-webservice-client-002.iml" filepath="$PROJECT_DIR$/cxf-webservice-client-002/cxf-webservice-client-002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-complextype-client-004/cxf-webservice-complextype-client-004.iml" filepath="$PROJECT_DIR$/cxf-webservice-complextype-client-004/cxf-webservice-complextype-client-004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-complextype-maps-client-006/cxf-webservice-complextype-maps-client-006.iml" filepath="$PROJECT_DIR$/cxf-webservice-complextype-maps-client-006/cxf-webservice-complextype-maps-client-006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-complextype-maps-server-006/cxf-webservice-complextype-maps-server-006.iml" filepath="$PROJECT_DIR$/cxf-webservice-complextype-maps-server-006/cxf-webservice-complextype-maps-server-006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-complextype-server-004/cxf-webservice-complextype-server-004.iml" filepath="$PROJECT_DIR$/cxf-webservice-complextype-server-004/cxf-webservice-complextype-server-004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-custom-interceptor-client-008/cxf-webservice-custom-interceptor-client-008.iml" filepath="$PROJECT_DIR$/cxf-webservice-custom-interceptor-client-008/cxf-webservice-custom-interceptor-client-008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-custom-interceptor-server-008/cxf-webservice-custom-interceptor-server-008.iml" filepath="$PROJECT_DIR$/cxf-webservice-custom-interceptor-server-008/cxf-webservice-custom-interceptor-server-008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-interceptor-client-007/cxf-webservice-interceptor-client-007.iml" filepath="$PROJECT_DIR$/cxf-webservice-interceptor-client-007/cxf-webservice-interceptor-client-007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-interceptor-server-007/cxf-webservice-interceptor-server-007.iml" filepath="$PROJECT_DIR$/cxf-webservice-interceptor-server-007/cxf-webservice-interceptor-server-007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-interface-server-002/cxf-webservice-interface-server-002.iml" filepath="$PROJECT_DIR$/cxf-webservice-interface-server-002/cxf-webservice-interface-server-002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-spring-client-009/cxf-webservice-spring-client-009.iml" filepath="$PROJECT_DIR$/cxf-webservice-spring-client-009/cxf-webservice-spring-client-009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-spring-custom-interceptor-client-010/cxf-webservice-spring-custom-interceptor-client-010.iml" filepath="$PROJECT_DIR$/cxf-webservice-spring-custom-interceptor-client-010/cxf-webservice-spring-custom-interceptor-client-010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-spring-custom-interceptor-server-010/cxf-webservice-spring-custom-interceptor-server-010.iml" filepath="$PROJECT_DIR$/cxf-webservice-spring-custom-interceptor-server-010/cxf-webservice-spring-custom-interceptor-server-010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-spring-server-009/cxf-webservice-spring-server-009.iml" filepath="$PROJECT_DIR$/cxf-webservice-spring-server-009/cxf-webservice-spring-server-009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk-webservice-interface-server-002/jdk-webservice-interface-server-002.iml" filepath="$PROJECT_DIR$/jdk-webservice-interface-server-002/jdk-webservice-interface-server-002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice-cxf-temp-001.iml" filepath="$PROJECT_DIR$/webservice-cxf-temp-001.iml" />
+    </modules>
+  </component>
+</project>

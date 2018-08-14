@@ -1,0 +1,4 @@
+http://localhost:8080/(这里填Application context)/(在web.xml中设置了访问路径前缀为 webservice)/(这里是 spring 配置文件中对外发布的endpoint名称HelloWorld)?wsdl
+
+http://localhost:8080/webservice/HelloWorld?wsdl
+http://localhost:8080/cxf-webservice-spring-server-009/webservice/HelloWorld?wsdl

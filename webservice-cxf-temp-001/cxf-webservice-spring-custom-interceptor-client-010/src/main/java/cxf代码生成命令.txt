@@ -1,0 +1,1 @@
+wsdl2java http://localhost:8080/cxf-webservice-spring-custom-interceptor-server-010/webservice/HelloWorld?wsdl

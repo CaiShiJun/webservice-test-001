@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cxf-webservice-client-002" />
+        <module name="cxf-webservice-complextype-client-004" />
+        <module name="cxf-webservice-complextype-maps-client-006" />
+        <module name="cxf-webservice-complextype-maps-server-006" />
+        <module name="cxf-webservice-complextype-server-004" />
+        <module name="cxf-webservice-custom-interceptor-client-008" />
+        <module name="cxf-webservice-custom-interceptor-server-008" />
+        <module name="cxf-webservice-interceptor-client-007" />
+        <module name="cxf-webservice-interceptor-server-007" />
+        <module name="cxf-webservice-interface-server-002" />
+        <module name="cxf-webservice-spring-client-009" />
+        <module name="cxf-webservice-spring-custom-interceptor-client-010" />
+        <module name="cxf-webservice-spring-custom-interceptor-server-010" />
+        <module name="cxf-webservice-spring-server-009" />
+        <module name="jdk-webservice-interface-server-002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cxf-webservice-client-002" target="1.8" />
+      <module name="cxf-webservice-complextype-client-004" target="1.8" />
+      <module name="cxf-webservice-complextype-maps-client-006" target="1.8" />
+      <module name="cxf-webservice-complextype-maps-server-006" target="1.8" />
+      <module name="cxf-webservice-complextype-server-004" target="1.8" />
+      <module name="cxf-webservice-custom-interceptor-client-008" target="1.8" />
+      <module name="cxf-webservice-custom-interceptor-server-008" target="1.8" />
+      <module name="cxf-webservice-interceptor-client-007" target="1.8" />
+      <module name="cxf-webservice-interceptor-server-007" target="1.8" />
+      <module name="cxf-webservice-interface-server-002" target="1.8" />
+      <module name="cxf-webservice-spring-client-009" target="1.8" />
+      <module name="cxf-webservice-spring-custom-interceptor-client-010" target="1.8" />
+      <module name="cxf-webservice-spring-custom-interceptor-server-010" target="1.8" />
+      <module name="cxf-webservice-spring-server-009" target="1.8" />
+      <module name="jdk-webservice-interface-server-002" target="1.8" />
+      <module name="webservice-cxf-temp-001" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

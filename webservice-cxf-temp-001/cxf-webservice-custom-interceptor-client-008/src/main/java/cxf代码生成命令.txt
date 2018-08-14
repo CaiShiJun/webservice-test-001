@@ -1,0 +1,1 @@
+wsdl2java http://localhost/helloWorld?wsdl

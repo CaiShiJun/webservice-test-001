@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-client-002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-complextype-client-004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-complextype-maps-client-006" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-complextype-maps-server-006" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-complextype-server-004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-custom-interceptor-client-008" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-custom-interceptor-server-008" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-interceptor-client-007" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-interceptor-server-007" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-interface-server-002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-spring-client-009" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-spring-custom-interceptor-client-010" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-spring-custom-interceptor-server-010" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cxf-webservice-spring-server-009" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk-webservice-interface-server-002" charset="UTF-8" />
+  </component>
+</project>

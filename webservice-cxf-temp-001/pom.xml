@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.github.caishijun</groupId>
+    <artifactId>webservice-cxf-temp-001</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>jdk-webservice-interface-server-002</module>
+        <module>cxf-webservice-interface-server-002</module>
+        <module>cxf-webservice-client-002</module>
+        <module>cxf-webservice-complextype-server-004</module>
+        <module>cxf-webservice-complextype-client-004</module>
+        <module>cxf-webservice-complextype-maps-server-006</module>
+        <module>cxf-webservice-complextype-maps-client-006</module>
+        <module>cxf-webservice-interceptor-server-007</module>
+        <module>cxf-webservice-interceptor-client-007</module>
+        <module>cxf-webservice-custom-interceptor-server-008</module>
+        <module>cxf-webservice-custom-interceptor-client-008</module>
+        <module>cxf-webservice-spring-server-009</module>
+        <module>cxf-webservice-spring-client-009</module>
+        <module>cxf-webservice-spring-custom-interceptor-server-010</module>
+        <module>cxf-webservice-spring-custom-interceptor-client-010</module>
+    </modules>
+    <packaging>pom</packaging>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
